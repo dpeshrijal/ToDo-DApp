@@ -5,3 +5,4 @@ A simple ToDo List Dapp powered by Ethereum Smart Contracts. This ToDo List can 
 * **Solidity**: Language used to write Smart Contracts
 * **Hardhat**: Development framework for Ethereum Dapps
 * **ethers.js**: Library that allows smart contract to interact with blockchain
+* **React**: Javascript library to create frontend.
